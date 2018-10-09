@@ -56,8 +56,8 @@ start-delay: 200
 delete-delay: 5000
 lines: # You can add HTML Tags in the Text
   - text: "Retro-Games development."
-  - text: "Since Sinclair ZX Spectrum!"
-  - text: "Just Testing!"
+  - text: "Since Sinclair ZX Spectrum 128K!"
+  - text: "Loading, please wait..."
 
 me-img: "/img/jetpacktocat.png"
 

@@ -59,7 +59,7 @@ lines: # You can add HTML Tags in the Text
   - text: "Passion for programming since Sinclair ZX Spectrum 128K!"
   - text: "Loading, please wait..."
 
-me-img: "/img/jetpacktocat.png"
+#me-img: "/img/Profile.jpg"
 
 # To use facebook profile pic comment the previous line and uncomment the following
 # line, and replace 'user_id' with your facebook user id.
@@ -72,7 +72,7 @@ me-img: "/img/jetpacktocat.png"
 # To use github profile pic uncomment the following line and replace 'user_name'
 # with your github user name.
 
-# me-img: "https://github.com/user_name.png?size=500"
+ me-img: "https://github.com/brunfo.png?size=500"
 
 # To use gravatar profile pic uncomment the following line and replace 'email_hash'
 # with your gravatar profile email hash.

@@ -132,23 +132,23 @@ syntax-highlight: True
 ############
 
 events:
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/maquinas.png"
     date: "November 2012 - today"
     description: "AFINOMAQ - 3D Senior Drafter - Leading Designer"  
     
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/azeite-03.jpg"
     date: "August 2010 - March 2012"
     description: "Lagares da Catraia, S.A. - Production Manager" 
     
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/azeite-03.jpg"
     date: "October 2008 - Jannuary 2009"
     description: "Penazeites, S.A. - Production Manager"
     
-  - image: "/img/timeline/spidertocat.png"
+  - image: "/img/azeite-03.jpg"
     date: "November 2001 - March 2008"
     description: "Olivilaboimcoop, CRL - General Foreman"
     
-  - image: "/img/timeline/baracktocat.jpg"
+  - image: "/img/sinclair_spectrum128_1.jpg"
     date: "1987"
     description: "Playing width ZX Spectrum"
 

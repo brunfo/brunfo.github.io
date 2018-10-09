@@ -106,26 +106,26 @@ icon-192p: "/img/web-app/icon-192p.png"
 # Blog #
 ########
 
-enable-gesture-navigation: false
+#enable-gesture-navigation: false
 
-post-preview-words: 96
+#post-preview-words: 96
 
-paginate: 5
+#paginate: 5
 
-email-share: True
-fb-share: False
-twitter-share: False
-linkedin-share: True
-reddit-share: False
-google-plus-share: False
-tumblr-share: False
-pinterest-share: False
-pocket-share: False
-vkontakte-share: False
+#email-share: True
+#fb-share: False
+#twitter-share: False
+#linkedin-share: True
+#reddit-share: False
+#google-plus-share: False
+#tumblr-share: False
+#pinterest-share: False
+#pocket-share: False
+#vkontakte-share: False
 
-disqus-shortname: "personal-jekyll-theme"
+#disqus-shortname: "personal-jekyll-theme"
 
-syntax-highlight: True
+#syntax-highlight: True
 
 ############
 # Timeline #
@@ -199,9 +199,9 @@ err-404-img: "/img/labtocat.png"
 # GPG on Keybase #
 ##################
 
-keybase-username: johnsmith
-keybase-in-social: True
-keybase-in-footer: True
+#keybase-username: johnsmith
+#keybase-in-social: True
+#keybase-in-footer: True
 
 ################################################################################
 
@@ -211,7 +211,7 @@ keybase-in-footer: True
 
 pages_list:
   About: 'about'
-  Blog: 'latest-post'
+  #Blog: 'latest-post'
   Timeline: 'timeline'
   Contact: 'contact'
 
@@ -221,7 +221,7 @@ exclude: ["LICENSE", "README.md", "CONTRIBUTING", "CONTRIBUTORS", "scripts"]
 
 # Pagination path
 
-paginate_path: "blog/page:num/"
+#paginate_path: "blog/page:num/"
 
 # Enable minification SASS
 

@@ -106,13 +106,13 @@ icon-192p: "/img/web-app/icon-192p.png"
 # Blog #
 ########
 
-#enable-gesture-navigation: false
+enable-gesture-navigation: false
 
-#post-preview-words: 96
+post-preview-words: 96
 
-#paginate: 5
+paginate: 5
 
-#email-share: True
+email-share: True
 #fb-share: False
 #twitter-share: False
 #linkedin-share: True
@@ -173,6 +173,7 @@ email: "bruno.rego.1976@gmail.com"
 #author_blurb: "John Smith is an awesome person. He lives in Flatland, where he works on two-dimensional engineering projects. In his spare time, John likes to eat cotton candy."
 #author_blurb_image: "/img/author.png"
 
+
 ##################
 # Social Buttons #
 ##################
@@ -223,7 +224,7 @@ exclude: ["LICENSE", "README.md", "CONTRIBUTING", "CONTRIBUTORS", "scripts"]
 
 # Pagination path
 
-#paginate_path: "blog/page:num/"
+paginate_path: "blog/page:num/"
 
 # Enable minification SASS
 
